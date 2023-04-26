@@ -1,5 +1,7 @@
 # automacao-de-reports
-Script de automação para alguns reports de necessidade ao menos semanal na HKM Indústria e Comércio.
+Script de automação para alguns reports na HKM Indústria e Comércio.<br>
+Atualmente, a empresa utiliza alguns documentos desenvolvidos em Excel com vínculo ao banco de dados para resumir informações, desenvolver relatórios ou criar ferramentas com interface amigável para o usuário. Esses documentos são facilitadores do controle das informações e tem como principal objetivo auxiliar nas tomadas de decisão estratégicas.<br>
+Existe a necessidade de manter as informações plenamente sincronizadas com o banco de dados do ERP da empresa. Porém, algumas consultas a este banco são complexas e levam alguns minutos para acontecer. A solução utilizada é manter este script sendo executado diariamente, para que os principais arquivos sejam atualizados nos primeiros minutos do dia.
 
 ## Função automation_reporting():
 Recebe como argumento um dicionário cujas chaves são os nomes das ferramentas, e os valores são listas com as informações de cada arquivo na seguinte ordem:<br>
