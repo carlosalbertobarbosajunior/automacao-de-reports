@@ -15,6 +15,6 @@ Identifica se o dia vigente é o primeiro dia útil do mês. E necessário para 
 Cada dicionário representa um conjunto de arquivos que serão atualizados em um ou mais dias da semana. Esses dicionários são utilizados na função automation_reporting() de acordo com o dia da semana, determinado pela biblioteca datetime.
 
 ## Scripts com padrões que fogem à função automation_reporting():
-###   - Report diário de faturamento:
-  Envia uma tabela, com formatação html, via e-mail contendo a relação das notas fiscais emitidas no mês que são a projeto (faturamento).<br>
-  Utiliza a função is_first_business_day() para identificar se o dia atual é o primeiro dia útil do mês. Caso seja, o report é enviado com base nas notas do mês anterior, como um resumo do faturamento do mês recém-finalizado.
+### \t - Report diário de faturamento:
+\t Envia uma tabela, com formatação html, via e-mail contendo a relação das notas fiscais emitidas no mês que são a projeto (faturamento).<br>
+\t Utiliza a função is_first_business_day() para identificar se o dia atual é o primeiro dia útil do mês. Caso seja, o report é enviado com base nas notas do mês anterior, como um resumo do faturamento do mês recém-finalizado.
