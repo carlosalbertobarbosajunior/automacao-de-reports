@@ -29,3 +29,8 @@ Cada dicionário representa um conjunto de arquivos que serão atualizados em um
 &nbsp;&nbsp;&nbsp;&nbsp;- De 8 a 14 dias de atraso: alerta emitido para o e-mail do colaborador + equipe de SGQ + coordenador do colaborador;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 15 dias ou mais: alerta emitido para o e-mail do colaborador + equipe de SGQ + coordenador do colaborador + diretor. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Caso o algoritmo não identifique o e-mail do colaborador com ação de não conformidade em atraso, o script indicará o erro e não prosseguirá com o envio de e-mails até que todos estejam cadastrados.
+
+## Report de performance dos scripts:
+Cada arquivo, report ou alerta realizado tem o tempo de execução medido através da biblioteca time, e posteriormente inserido no arquivo 'runtime_informations.txt'.<br>
+Este bloco final de código lê todas as informações deste arquivo e executa gráficos com a biblioteca matplotlib para cada tipo de automação. Os gráficos contam com informações flutuantes de média e desvio padrão, e também linhas de máximo e mínimo. Para cada gráfico gerado, o mesmo salva na pasta 'pic'.<br>
+Ao fim da construção dos gráficos, o algoritmo me envia um e-mail com todos os gráficos em anexo para que eu monitore diariamente se há alguma anomalia de performance.
