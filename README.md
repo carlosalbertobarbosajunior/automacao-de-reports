@@ -21,4 +21,4 @@ Cada dicionário representa um conjunto de arquivos que serão atualizados em um
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;- Report diário de calibração de máquinas de solda:
 &nbsp;&nbsp;&nbsp;&nbsp; Através de uma planilha alimentada manualmente, este script relaciona as máquinas de solda que estão com calibração vencida, ou próxima do vencimento.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Caso alguma máquina de solda se encaixe nessas situações, o script dispara um e-mail de alerta. E caso hajam máquinas vencidas e também outras prestes a vencer, o e-mail passa a conter as informações separadas em duas tabelas.
+&nbsp;&nbsp;&nbsp;&nbsp;Caso alguma máquina de solda se encaixe nessas situações, o script dispara um e-mail de alerta. Além disso, caso hajam máquinas vencidas e também outras prestes a vencer, o e-mail passa a conter as informações separadas em duas tabelas.
