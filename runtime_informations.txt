@@ -98,3 +98,8 @@ Controle de Solicitacao Compra e Recebimento,2023-05-02 07:49:57,43.262707710266
 Report de Faturamento,2023-05-02 07:50:25,26.454551458358765
 Report de Calibracao de Maquinas de Solda,2023-05-02 07:50:25,0.38347792625427246
 Notificacoes de Nao Conformidades,2023-05-02 07:50:39,13.788304090499878
+Aderencia ao Custo Orcado,2023-05-03 07:03:47,177.06008434295654
+Controle de Solicitacao Compra e Recebimento,2023-05-03 07:04:29,42.06092810630798
+Report de Faturamento,2023-05-03 07:05:02,30.228248596191406
+Report de Calibracao de Maquinas de Solda,2023-05-03 07:05:03,0.3793807029724121
+Notificacoes de Nao Conformidades,2023-05-03 07:05:17,14.223170280456543
