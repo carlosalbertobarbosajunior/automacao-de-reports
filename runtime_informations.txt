@@ -114,3 +114,12 @@ Controle de Solicitacao Compra e Recebimento,2023-05-05 07:57:37,42.740191698074
 Report de Faturamento,2023-05-05 07:58:15,35.54826092720032
 Report de Calibracao de Maquinas de Solda,2023-05-05 07:58:16,0.34674620628356934
 Notificacoes de Nao Conformidades,2023-05-05 07:58:30,14.266066551208496
+Acoes de NCs em Aberto,2023-05-08 07:49:17,25.295830011367798
+Flash Report de Nao Conformidade,2023-05-08 07:49:37,20.148250818252563
+Carta Mensal do SGQ,2023-05-08 07:49:58,21.14185094833374
+Nao Conformidades Abertas,2023-05-08 07:50:15,16.48195719718933
+Aderencia ao Custo Orcado,2023-05-08 07:53:15,177.01029896736145
+Controle de Solicitacao Compra e Recebimento,2023-05-08 07:53:51,36.82122492790222
+Report de Faturamento,2023-05-08 07:54:19,24.753710985183716
+Report de Calibracao de Maquinas de Solda,2023-05-08 07:54:20,0.7905483245849609
+Notificacoes de Nao Conformidades,2023-05-08 07:54:35,14.552120685577393
