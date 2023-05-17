@@ -14,6 +14,9 @@ Identifica se o dia vigente é o primeiro dia útil do mês. E necessário para 
 ## Função create_df_from_database(config_file, query):
 Recebe informações do banco de dados da empresa pelo argumento config_file. Recebe também uma consulta desejada a este banco de dados. Retorna um dataframe pandas com a consulta.
 
+## Função df_to_html_body(df):
+Recebe um dataframe pandas e o converte para uma string que corresponde a uma tabela formatada em HTML para utilizar em corpo de e-mail.
+
 ## Parâmetros dos arquivos:
 Cada dicionário representa um conjunto de arquivos que serão atualizados em um ou mais dias da semana. Esses dicionários são utilizados na função automation_reporting() de acordo com o dia da semana, determinado pela biblioteca datetime.
 
