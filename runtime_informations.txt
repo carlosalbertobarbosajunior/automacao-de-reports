@@ -367,3 +367,11 @@ Alerta de Nao Conformidade,2023-06-28 07:11:13,2.4379069805145264
 Report de Faturamento,2023-06-28 07:11:43,29.315675258636475
 Report de Calibracao de Maquinas de Solda,2023-06-28 07:11:43,0.6158785820007324
 Notificacoes de Nao Conformidades,2023-06-28 07:11:59,15.563152313232422
+Aderencia ao Custo Orcado,2023-06-29 07:18:27,193.28195762634277
+Controle de Solicitacao Compra e Recebimento,2023-06-29 07:19:15,47.78211951255798
+Aderencia ao Custo Orcado,2023-06-29 07:29:08,129.7991762161255
+Controle de Solicitacao Compra e Recebimento,2023-06-29 07:29:35,27.09735131263733
+Alerta de Nao Conformidade,2023-06-29 07:29:37,0.6441452503204346
+Report de Faturamento,2023-06-29 07:30:01,24.285487174987793
+Report de Calibracao de Maquinas de Solda,2023-06-29 07:30:04,2.6999731063842773
+Notificacoes de Nao Conformidades,2023-06-29 07:30:19,15.303642988204956
